@@ -1,2 +1,2 @@
 # Project-1
-Album Cover Redesign
+Album Cover Redesign for Frank Ocean's "Lens"
