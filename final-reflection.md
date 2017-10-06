@@ -1,0 +1,9 @@
+(originally [posted to WordPress](https://cdm2017.majoringinmeta.net/project-one-reflection/) on 2017-09-25)
+
+I found this project to be significantly more difficult than I anticipated. Though I feel that I fully fulfilled the requirements for the project, I certainly could have done more in terms of overall exploration of the software. I manipulated elements of the piece that I possessed general comprehension of, and missed out on a few opportunities to compose a more collectively dynamic piece.
+
+I primarily focused on the use of the magic wand selection tool, and from there added to the original canvas through the insertion of photos, colors and fonts. I worked with the scaling tool on multiple occasions when resizing the facial layers, the original font, and the mouth. I wanted to maintain the lo-fi effect of the original piece in order to express the simplicity of the message Frank Ocean was trying to express, but got a little sloppy in the application of it on some parts. Certain elements of the revision I would like to leave open to interpretation, so I will avoid elaborating too in depth on them.
+
+If I had more time, and experience with GIMP, I would have focused more on the facial layering. I wanted to have a shadow effect to differentiate between each layer, but didn't have the exposure to the software to properly attempt this feat. I would also like to make the faces in the landscape resemble single eyes as opposed to entire faces. I would also like to find a way to make the overlap of colors more clean in the landscape as well as the face, but maintain the finish of the sky. I think the sky is one of the coolest parts of the composition.
+
+Overall, this project was highly entertaining and informative. I learned a great deal about my computer skills as well as my general patients with the iterative process. I am very much looking forward to the next project.
